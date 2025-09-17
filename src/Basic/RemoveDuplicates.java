@@ -36,7 +36,7 @@ public class RemoveDuplicates {
 		Integer num[] = {5, 7, 8, 12, 34, 22, 12, 78, 7, 5};
 		List<Integer> numbers = Arrays.asList(num);
 		
-		List<Integer> distinct = numbers.stream().distinct().toList();
+//		List<Integer> distinct = numbers.stream().distinct().toList();
 //		System.out.print(distinct);	
 		
 		
